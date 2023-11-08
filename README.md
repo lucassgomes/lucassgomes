@@ -1,7 +1,7 @@
 # Lucas Soares
 
 <p align="justify">
-Sou um Tech Lead entusiasmado com inovações tecnológicas e gestão de equipes de desenvolvimento de software na entrega de soluções de alta qualidade. Com mais de 6 anos de experiência em tecnologia, eu trago uma compreensão profunda dos desafios de desenvolvimento e manutenção de sistemas escaláveis e robustos.
+Sou um desenvolvedor entusiasmado com inovações tecnológicas e gestão de equipes de desenvolvimento de software na entrega de soluções de alta qualidade. Com mais de 6 anos de experiência em tecnologia, eu trago uma compreensão profunda dos desafios de desenvolvimento e manutenção de sistemas escaláveis e robustos.
 </p>
 
 <p align="justify">
